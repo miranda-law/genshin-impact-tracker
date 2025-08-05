@@ -15,6 +15,7 @@ module.exports = [
         outputAssetBase: 'native_modules',
       },
     },
+    
   },
   // Put your webpack loader rules in this array.  This is where you would put
   // your ts-loader configuration for instance:
@@ -32,4 +33,15 @@ module.exports = [
    *   }]
    * }
    */
+  {
+    test: /\.(js|jsx)$/,
+    exclude: /node_modules/,
+    use: {
+      loader: 'babel-loader',
+    },
+  },
+  {
+    test: /\.css$/,
+    use: [{ loader: 'style-loader' }, { loader: 'css-loader' }],
+  }
 ];
