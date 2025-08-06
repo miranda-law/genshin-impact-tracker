@@ -2,6 +2,46 @@
   "name": "genshin-impact-tracker",
   "productName": "genshin-impact-tracker",
   "version": "1.0.0",
+  "config": {
+    "forge": {
+      "packagerConfig": {},
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel"
+        },
+        {
+          "name": "@electron-forge/maker-zip"
+        }
+      ],
+      "plugins": [
+        {
+          "name": "@electron-forge/plugin-webpack",
+          "config": {
+            "mainConfig": "./webpack.main.config.js",
+            "renderer": {
+              "config": "./webpack.renderer.config.js",
+              "entryPoints": [
+                {
+                  "html": "./src/index.html",
+                  "js": "./src/renderer.js",
+                  "name": "main_window"
+                }
+              ]
+            },
+            "preload": {
+              "config": "./webpack.preload.config.js",
+              "entryPoints": [
+                {
+                  "name": "main_window_preload",
+                  "js": "./src/preload.js"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  },
   "description": "My Electron application description",
   "main": ".webpack/main",
   "scripts": {
