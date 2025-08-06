@@ -1,0 +1,1618 @@
+[
+    {
+        "id": "1",
+        "name": "Amber",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Bow",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Sharpshooter",
+            "skill": "Explosive Puppet",
+            "burst": "Fiery Rain"
+        },
+        "image": "Amber_Icon.png"
+    },
+    {
+        "id": "2",
+        "name": "Barbara",
+        "quality": "4",
+        "element": "Hydro",
+        "weaponType": "Catalyst",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Whisper of Water",
+            "skill": "Let the Show Begin\u266a",
+            "burst": "Shining Miracle\u266a"
+        },
+        "image": "Barbara_Icon.png"
+    },
+    {
+        "id": "3",
+        "name": "Beidou",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Claymore",
+        "region": "Liyue",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Oceanborne",
+            "skill": "Tidecaller",
+            "burst": "Stormbreaker"
+        },
+        "image": "Beidou_Icon.png"
+    },
+    {
+        "id": "4",
+        "name": "Bennett",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Sword",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Strike of Fortune",
+            "skill": "Passion Overload",
+            "burst": "Fantastic Voyage"
+        },
+        "image": "Bennett_Icon.png"
+    },
+    {
+        "id": "5",
+        "name": "Chongyun",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Claymore",
+        "region": "Liyue",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Demonbane",
+            "skill": "Spirit Blade: Chonghua's Layered Frost",
+            "burst": "Spirit Blade: Cloud-Parting Star"
+        },
+        "image": "Chongyun_Icon.png"
+    },
+    {
+        "id": "6",
+        "name": "Diluc",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Claymore",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Tempered Sword",
+            "skill": "Searing Onslaught",
+            "burst": "Dawn"
+        },
+        "image": "Diluc_Icon.png"
+    },
+    {
+        "id": "7",
+        "name": "Fischl",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Bow",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Bolts of Downfall",
+            "skill": "Nightrider",
+            "burst": "Midnight Phantasmagoria"
+        },
+        "image": "Fischl_Icon.png"
+    },
+    {
+        "id": "8",
+        "name": "Jean",
+        "quality": "5",
+        "element": "Anemo",
+        "weaponType": "Sword",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Favonius Bladework",
+            "skill": "Gale Blade",
+            "burst": "Dandelion Breeze"
+        },
+        "image": "Jean_Icon.png"
+    },
+    {
+        "id": "9",
+        "name": "Kaeya",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Sword",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Ceremonial Bladework",
+            "skill": "Frostgnaw",
+            "burst": "Glacial Waltz"
+        },
+        "image": "Kaeya_Icon.png"
+    },
+    {
+        "id": "10",
+        "name": "Keqing",
+        "quality": "5",
+        "element": "Electro",
+        "weaponType": "Sword",
+        "region": "Liyue",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Yunlai Swordsmanship",
+            "skill": "Stellar Restoration",
+            "burst": "Starward Sword"
+        },
+        "image": "Keqing_Icon.png"
+    },
+    {
+        "id": "11",
+        "name": "Klee",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Catalyst",
+        "region": "Mondstadt",
+        "releaseDate": "October 20, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Kaboom!",
+            "skill": "Jumpy Dumpty",
+            "burst": "Sparks 'n' Splash"
+        },
+        "image": "Klee_Icon.png"
+    },
+    {
+        "id": "12",
+        "name": "Lisa",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Catalyst",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Lightning Touch",
+            "skill": "Violet Arc",
+            "burst": "Lightning Rose"
+        },
+        "image": "Lisa_Icon.png"
+    },
+    {
+        "id": "13",
+        "name": "Mona",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Catalyst",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Ripple of Fate",
+            "skill": "Mirror Reflection of Doom",
+            "burst": "Stellaris Phantasm"
+        },
+        "image": "Mona_Icon.png"
+    },
+    {
+        "id": "14",
+        "name": "Ningguang",
+        "quality": "4",
+        "element": "Geo",
+        "weaponType": "Catalyst",
+        "region": "Liyue",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Sparkling Scatter",
+            "skill": "Jade Screen",
+            "burst": "Starshatter"
+        },
+        "image": "Ningguang_Icon.png"
+    },
+    {
+        "id": "15",
+        "name": "Noelle",
+        "quality": "4",
+        "element": "Geo",
+        "weaponType": "Claymore",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Favonius Bladework - Maid",
+            "skill": "Breastplate",
+            "burst": "Sweeping Time"
+        },
+        "image": "Noelle_Icon.png"
+    },
+    {
+        "id": "16",
+        "name": "Qiqi",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Sword",
+        "region": "Liyue",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Ancient Sword Art",
+            "skill": "Adeptus Art: Herald of Frost",
+            "burst": "Adeptus Art: Preserver of Fortune"
+        },
+        "image": "Qiqi_Icon.png"
+    },
+    {
+        "id": "17",
+        "name": "Razor",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Claymore",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Steel Fang",
+            "skill": "Claw and Thunder",
+            "burst": "Lightning Fang"
+        },
+        "image": "Razor_Icon.png"
+    },
+    {
+        "id": "18",
+        "name": "Sucrose",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Catalyst",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Wind Spirit Creation",
+            "skill": "Astable Anemohypostasis Creation - 6308",
+            "burst": "Forbidden Creation - Isomer 75 / Type II"
+        },
+        "image": "Sucrose_Icon.png"
+    },
+    {
+        "id": "19",
+        "name": "Venti",
+        "quality": "5",
+        "element": "Anemo",
+        "weaponType": "Bow",
+        "region": "Mondstadt",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Divine Marksmanship",
+            "skill": "Skyward Sonnet",
+            "burst": "Wind's Grand Ode"
+        },
+        "image": "Venti_Icon.png"
+    },
+    {
+        "id": "20",
+        "name": "Xiangling",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Polearm",
+        "region": "Liyue",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Dough-Fu",
+            "skill": "Guoba Attack",
+            "burst": "Pyronado"
+        },
+        "image": "Xiangling_Icon.png"
+    },
+    {
+        "id": "21",
+        "name": "Xingqiu",
+        "quality": "4",
+        "element": "Hydro",
+        "weaponType": "Sword",
+        "region": "Liyue",
+        "releaseDate": "September 28, 2020",
+        "version": "1.0",
+        "talents": {
+            "normal": "Guhua Style",
+            "skill": "Guhua Sword: Fatal Rainscreen",
+            "burst": "Guhua Sword: Raincutter"
+        },
+        "image": "Xingqiu_Icon.png"
+    },
+    {
+        "id": "22",
+        "name": "Diona",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Bow",
+        "region": "Mondstadt",
+        "releaseDate": "November 11, 2020",
+        "version": "1.1",
+        "talents": {
+            "normal": "K\u00e4tzlein Style",
+            "skill": "Icy Paws",
+            "burst": "Signature Mix"
+        },
+        "image": "Diona_Icon.png"
+    },
+    {
+        "id": "23",
+        "name": "Tartaglia",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Bow",
+        "region": "Snezhnaya",
+        "releaseDate": "November 11, 2020",
+        "version": "1.1",
+        "talents": {
+            "normal": "Cutting Torrent",
+            "skill": "Foul Legacy: Raging Tide",
+            "burst": "Havoc: Obliteration"
+        },
+        "image": "Tartaglia_Icon.png"
+    },
+    {
+        "id": "24",
+        "name": "Xinyan",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Claymore",
+        "region": "Liyue",
+        "releaseDate": "December 01, 2020",
+        "version": "1.1",
+        "talents": {
+            "normal": "Dance on Fire",
+            "skill": "Sweeping Fervor",
+            "burst": "Riff Revolution"
+        },
+        "image": "Xinyan_Icon.png"
+    },
+    {
+        "id": "25",
+        "name": "Zhongli",
+        "quality": "5",
+        "element": "Geo",
+        "weaponType": "Polearm",
+        "region": "Liyue",
+        "releaseDate": "December 01, 2020",
+        "version": "1.1",
+        "talents": {
+            "normal": "Rain of Stone",
+            "skill": "Dominus Lapidis",
+            "burst": "Planet Befall"
+        },
+        "image": "Zhongli_Icon.png"
+    },
+    {
+        "id": "26",
+        "name": "Albedo",
+        "quality": "5",
+        "element": "Geo",
+        "weaponType": "Sword",
+        "region": "Mondstadt",
+        "releaseDate": "December 23, 2020",
+        "version": "1.2",
+        "talents": {
+            "normal": "Favonius Bladework - Weiss",
+            "skill": "Abiogenesis: Solar Isotoma",
+            "burst": "Rite of Progeniture: Tectonic Tide"
+        },
+        "image": "Albedo_Icon.png"
+    },
+    {
+        "id": "27",
+        "name": "Ganyu",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Bow",
+        "region": "Liyue",
+        "releaseDate": "January 12, 2021",
+        "version": "1.2",
+        "talents": {
+            "normal": "Liutian Archery",
+            "skill": "Trail of the Qilin",
+            "burst": "Celestial Shower"
+        },
+        "image": "Ganyu_Icon.png"
+    },
+    {
+        "id": "28",
+        "name": "Hu Tao",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Polearm",
+        "region": "Liyue",
+        "releaseDate": "March 02, 2021",
+        "version": "1.3",
+        "talents": {
+            "normal": "Secret Spear of Wangsheng",
+            "skill": "Guide to Afterlife",
+            "burst": "Spirit Soother"
+        },
+        "image": "Hu_Tao_Icon.png"
+    },
+    {
+        "id": "29",
+        "name": "Xiao",
+        "quality": "5",
+        "element": "Anemo",
+        "weaponType": "Polearm",
+        "region": "Liyue",
+        "releaseDate": "February 03, 2021",
+        "version": "1.3",
+        "talents": {
+            "normal": "Whirlwind Thrust",
+            "skill": "Lemniscatic Wind Cycling",
+            "burst": "Bane of All Evil"
+        },
+        "image": "Xiao_Icon.png"
+    },
+    {
+        "id": "30",
+        "name": "Rosaria",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Polearm",
+        "region": "Mondstadt",
+        "releaseDate": "April 06, 2021",
+        "version": "1.4",
+        "talents": {
+            "normal": "Spear of the Church",
+            "skill": "Ravaging Confession",
+            "burst": "Rites of Termination"
+        },
+        "image": "Rosaria_Icon.png"
+    },
+    {
+        "id": "31",
+        "name": "Eula",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Claymore",
+        "region": "Mondstadt",
+        "releaseDate": "May 18, 2021",
+        "version": "1.5",
+        "talents": {
+            "normal": "Favonius Bladework - Edel",
+            "skill": "Icetide Vortex",
+            "burst": "Glacial Illumination"
+        },
+        "image": "Eula_Icon.png"
+    },
+    {
+        "id": "32",
+        "name": "Yanfei",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Catalyst",
+        "region": "Liyue",
+        "releaseDate": "April 28, 2021",
+        "version": "1.5",
+        "talents": {
+            "normal": "Seal of Approval",
+            "skill": "Signed Edict",
+            "burst": "Done Deal"
+        },
+        "image": "Yanfei_Icon.png"
+    },
+    {
+        "id": "33",
+        "name": "Kaedehara Kazuha",
+        "quality": "5",
+        "element": "Anemo",
+        "weaponType": "Sword",
+        "region": "Inazuma",
+        "releaseDate": "June 29, 2021",
+        "version": "1.6",
+        "talents": {
+            "normal": "Garyuu Bladework",
+            "skill": "Chihayaburu",
+            "burst": "Kazuha Slash"
+        },
+        "image": "Kaedehara_Kazuha_Icon.png"
+    },
+    {
+        "id": "34",
+        "name": "Kamisato Ayaka",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Sword",
+        "region": "Inazuma",
+        "releaseDate": "July 21, 2021",
+        "version": "2.0",
+        "talents": {
+            "normal": "Kamisato Art: Kabuki",
+            "skill": "Kamisato Art: Hyouka",
+            "burst": "Kamisato Art: Soumetsu"
+        },
+        "image": "Kamisato_Ayaka_Icon.png"
+    },
+    {
+        "id": "35",
+        "name": "Sayu",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Claymore",
+        "region": "Inazuma",
+        "releaseDate": "August 10, 2021",
+        "version": "2.0",
+        "talents": {
+            "normal": "Shuumatsuban Ninja Blade",
+            "skill": "Yoohoo Art: Fuuin Dash",
+            "burst": "Yoohoo Art: Mujina Flurry"
+        },
+        "image": "Sayu_Icon.png"
+    },
+    {
+        "id": "36",
+        "name": "Yoimiya",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Bow",
+        "region": "Inazuma",
+        "releaseDate": "August 10, 2021",
+        "version": "2.0",
+        "talents": {
+            "normal": "Firework Flare-Up",
+            "skill": "Niwabi Fire-Dance",
+            "burst": "Ryuukin Saxifrage"
+        },
+        "image": "Yoimiya_Icon.png"
+    },
+    {
+        "id": "37",
+        "name": "Aloy",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Bow",
+        "region": "None",
+        "releaseDate": "September 01, 2021",
+        "version": "2.1",
+        "talents": {
+            "normal": "Rapid Fire",
+            "skill": "Frozen Wilds",
+            "burst": "Prophecies of Dawn"
+        },
+        "image": "Aloy_Icon.png"
+    },
+    {
+        "id": "38",
+        "name": "Kujou Sara",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Bow",
+        "region": "Inazuma",
+        "releaseDate": "September 01, 2021",
+        "version": "2.1",
+        "talents": {
+            "normal": "Tengu Bowmanship",
+            "skill": "Tengu Stormcall",
+            "burst": "Subjugation: Koukou Sendou"
+        },
+        "image": "Kujou_Sara_Icon.png"
+    },
+    {
+        "id": "39",
+        "name": "Raiden Shogun",
+        "quality": "5",
+        "element": "Electro",
+        "weaponType": "Polearm",
+        "region": "Inazuma",
+        "releaseDate": "September 01, 2021",
+        "version": "2.1",
+        "talents": {
+            "normal": "Origin",
+            "skill": "Transcendence: Baleful Omen",
+            "burst": "Secret Art: Musou Shinsetsu"
+        },
+        "image": "Raiden_Shogun_Icon.png"
+    },
+    {
+        "id": "40",
+        "name": "Sangonomiya Kokomi",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Catalyst",
+        "region": "Inazuma",
+        "releaseDate": "September 21, 2021",
+        "version": "2.1",
+        "talents": {
+            "normal": "The Shape of Water",
+            "skill": "Kurage's Oath",
+            "burst": "Nereid's Ascension"
+        },
+        "image": "Sangonomiya_Kokomi_Icon.png"
+    },
+    {
+        "id": "41",
+        "name": "Thoma",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Polearm",
+        "region": "Inazuma",
+        "releaseDate": "November 02, 2021",
+        "version": "2.2",
+        "talents": {
+            "normal": "Swiftshatter Spear",
+            "skill": "Blazing Blessing",
+            "burst": "Crimson Ooyoroi"
+        },
+        "image": "Thoma_Icon.png"
+    },
+    {
+        "id": "42",
+        "name": "Arataki Itto",
+        "quality": "5",
+        "element": "Geo",
+        "weaponType": "Claymore",
+        "region": "Inazuma",
+        "releaseDate": "December 14, 2021",
+        "version": "2.3",
+        "talents": {
+            "normal": "Fight Club Legend",
+            "skill": "Masatsu Zetsugi: Akaushi Burst!",
+            "burst": "Royal Descent: Behold, Itto the Evil!"
+        },
+        "image": "Arataki_Itto_Icon.png"
+    },
+    {
+        "id": "43",
+        "name": "Gorou",
+        "quality": "4",
+        "element": "Geo",
+        "weaponType": "Bow",
+        "region": "Inazuma",
+        "releaseDate": "December 14, 2021",
+        "version": "2.3",
+        "talents": {
+            "normal": "Ripping Fang Fletching",
+            "skill": "Inuzaka All-Round Defense",
+            "burst": "Juuga: Forward Unto Victory"
+        },
+        "image": "Gorou_Icon.png"
+    },
+    {
+        "id": "44",
+        "name": "Shenhe",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Polearm",
+        "region": "Liyue",
+        "releaseDate": "January 05, 2022",
+        "version": "2.4",
+        "talents": {
+            "normal": "Dawnstar Piercer",
+            "skill": "Spring Spirit Summoning",
+            "burst": "Divine Maiden's Deliverance"
+        },
+        "image": "Shenhe_Icon.png"
+    },
+    {
+        "id": "45",
+        "name": "Yun Jin",
+        "quality": "4",
+        "element": "Geo",
+        "weaponType": "Polearm",
+        "region": "Liyue",
+        "releaseDate": "January 05, 2022",
+        "version": "2.4",
+        "talents": {
+            "normal": "Cloud-Grazing Strike",
+            "skill": "Opening Flourish",
+            "burst": "Cliffbreaker's Banner"
+        },
+        "image": "Yun_Jin_Icon.png"
+    },
+    {
+        "id": "46",
+        "name": "Yae Miko",
+        "quality": "5",
+        "element": "Electro",
+        "weaponType": "Catalyst",
+        "region": "Inazuma",
+        "releaseDate": "February 16, 2022",
+        "version": "2.5",
+        "talents": {
+            "normal": "Spiritfox Sin-Eater",
+            "skill": "Yakan Evocation: Sesshou Sakura",
+            "burst": "Great Secret Art: Tenko Kenshin"
+        },
+        "image": "Yae_Miko_Icon.png"
+    },
+    {
+        "id": "47",
+        "name": "Kamisato Ayato",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Sword",
+        "region": "Inazuma",
+        "releaseDate": "March 30, 2022",
+        "version": "2.6",
+        "talents": {
+            "normal": "Kamisato Art: Marobashi",
+            "skill": "Kamisato Art: Kyouka",
+            "burst": "Kamisato Art: Suiyuu"
+        },
+        "image": "Kamisato_Ayato_Icon.png"
+    },
+    {
+        "id": "48",
+        "name": "Kuki Shinobu",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Sword",
+        "region": "Inazuma",
+        "releaseDate": "June 21, 2022",
+        "version": "2.7",
+        "talents": {
+            "normal": "Shinobu's Shadowsword",
+            "skill": "Sanctifying Ring",
+            "burst": "Gyoei Narukami Kariyama Rite"
+        },
+        "image": "Kuki_Shinobu_Icon.png"
+    },
+    {
+        "id": "49",
+        "name": "Yelan",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Bow",
+        "region": "Liyue",
+        "releaseDate": "May 31, 2022",
+        "version": "2.7",
+        "talents": {
+            "normal": "Stealthy Bowshot",
+            "skill": "Lingering Lifeline",
+            "burst": "Depth-Clarion Dice"
+        },
+        "image": "Yelan_Icon.png"
+    },
+    {
+        "id": "50",
+        "name": "Shikanoin Heizou",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Catalyst",
+        "region": "Inazuma",
+        "releaseDate": "July 13, 2022",
+        "version": "2.8",
+        "talents": {
+            "normal": "Fudou Style Martial Arts",
+            "skill": "Heartstopper Strike",
+            "burst": "Windmuster Kick"
+        },
+        "image": "Shikanoin_Heizou_Icon.png"
+    },
+    {
+        "id": "51",
+        "name": "Collei",
+        "quality": "4",
+        "element": "Dendro",
+        "weaponType": "Bow",
+        "region": "Sumeru",
+        "releaseDate": "August 24, 2022",
+        "version": "3.0",
+        "talents": {
+            "normal": "Supplicant's Bowmanship",
+            "skill": "Floral Brush",
+            "burst": "Trump-Card Kitty"
+        },
+        "image": "Collei_Icon.png"
+    },
+    {
+        "id": "52",
+        "name": "Dori",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Claymore",
+        "region": "Sumeru",
+        "releaseDate": "September 09, 2022",
+        "version": "3.0",
+        "talents": {
+            "normal": "Marvelous Sword-Dance (Modified)",
+            "skill": "Spirit-Warding Lamp: Troubleshooter Cannon",
+            "burst": "Alcazarzaray's Exactitude"
+        },
+        "image": "Dori_Icon.png"
+    },
+    {
+        "id": "53",
+        "name": "Tighnari",
+        "quality": "5",
+        "element": "Dendro",
+        "weaponType": "Bow",
+        "region": "Sumeru",
+        "releaseDate": "August 24, 2022",
+        "version": "3.0",
+        "talents": {
+            "normal": "Khanda Barrier-Buster",
+            "skill": "Vijnana-Phala Mine",
+            "burst": "Fashioner's Tanglevine Shaft"
+        },
+        "image": "Tighnari_Icon.png"
+    },
+    {
+        "id": "54",
+        "name": "Candace",
+        "quality": "4",
+        "element": "Hydro",
+        "weaponType": "Polearm",
+        "region": "Sumeru",
+        "releaseDate": "September 28, 2022",
+        "version": "3.1",
+        "talents": {
+            "normal": "Gleaming Spear - Guardian Stance",
+            "skill": "Sacred Rite: Heron's Sanctum",
+            "burst": "Sacred Rite: Wagtail's Tide"
+        },
+        "image": "Candace_Icon.png"
+    },
+    {
+        "id": "55",
+        "name": "Cyno",
+        "quality": "5",
+        "element": "Electro",
+        "weaponType": "Polearm",
+        "region": "Sumeru",
+        "releaseDate": "September 28, 2022",
+        "version": "3.1",
+        "talents": {
+            "normal": "Invoker's Spear",
+            "skill": "Secret Rite: Chasmic Soulfarer",
+            "burst": "Sacred Rite: Wolf's Swiftness"
+        },
+        "image": "Cyno_Icon.png"
+    },
+    {
+        "id": "56",
+        "name": "Nilou",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Sword",
+        "region": "Sumeru",
+        "releaseDate": "October 14, 2022",
+        "version": "3.1",
+        "talents": {
+            "normal": "Dance of Samser",
+            "skill": "Dance of Haftkarsvar",
+            "burst": "Dance of Abzendegi: Distant Dreams, Listening Spring"
+        },
+        "image": "Nilou_Icon.png"
+    },
+    {
+        "id": "57",
+        "name": "Layla",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Sword",
+        "region": "Sumeru",
+        "releaseDate": "November 18, 2022",
+        "version": "3.2",
+        "talents": {
+            "normal": "Sword of the Radiant Path",
+            "skill": "Nights of Formal Focus",
+            "burst": "Dream of the Star-Stream Shaker"
+        },
+        "image": "Layla_Icon.png"
+    },
+    {
+        "id": "58",
+        "name": "Nahida",
+        "quality": "5",
+        "element": "Dendro",
+        "weaponType": "Catalyst",
+        "region": "Sumeru",
+        "releaseDate": "November 02, 2022",
+        "version": "3.2",
+        "talents": {
+            "normal": "Akara",
+            "skill": "All Schemes to Know",
+            "burst": "Illusory Heart"
+        },
+        "image": "Nahida_Icon.png"
+    },
+    {
+        "id": "59",
+        "name": "Faruzan",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Bow",
+        "region": "Sumeru",
+        "releaseDate": "December 07, 2022",
+        "version": "3.3",
+        "talents": {
+            "normal": "Parthian Shot",
+            "skill": "Wind Realm of Nasamjnin",
+            "burst": "The Wind's Secret Ways"
+        },
+        "image": "Faruzan_Icon.png"
+    },
+    {
+        "id": "60",
+        "name": "Wanderer",
+        "quality": "5",
+        "element": "Anemo",
+        "weaponType": "Catalyst",
+        "region": "Sumeru",
+        "releaseDate": "December 07, 2022",
+        "version": "3.3",
+        "talents": {
+            "normal": "Yuuban Meigen",
+            "skill": "Hanega: Song of the Wind",
+            "burst": "Kyougen: Five Ceremonial Plays"
+        },
+        "image": "Wanderer_Icon.png"
+    },
+    {
+        "id": "61",
+        "name": "Alhaitham",
+        "quality": "4",
+        "element": "Dendro",
+        "weaponType": "Sword",
+        "region": "Sumeru",
+        "releaseDate": "January 18, 2023",
+        "version": "3.4",
+        "talents": {
+            "normal": "Abductive Reasoning",
+            "skill": "Universality: An Elaboration on Form",
+            "burst": "Particular Field: Fetters of Phenomena"
+        },
+        "image": "Alhaitham_Icon.png"
+    },
+    {
+        "id": "62",
+        "name": "Yaoyao",
+        "quality": "4",
+        "element": "Dendro",
+        "weaponType": "Polearm",
+        "region": "Liyue",
+        "releaseDate": "January 18, 2023",
+        "version": "3.4",
+        "talents": {
+            "normal": "Toss 'N' Turn Spear",
+            "skill": "Raphanus Sky Cluster",
+            "burst": "Moonjade Descent"
+        },
+        "image": "Yaoyao_Icon.png"
+    },
+    {
+        "id": "63",
+        "name": "Dehya",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Claymore",
+        "region": "Sumeru",
+        "releaseDate": "March 01, 2023",
+        "version": "3.5",
+        "talents": {
+            "normal": "Sandstorm Assault",
+            "skill": "Molten Inferno",
+            "burst": "Leonine Bite"
+        },
+        "image": "Dehya_Icon.png"
+    },
+    {
+        "id": "64",
+        "name": "Mika",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Polearm",
+        "region": "Mondstadt",
+        "releaseDate": "March 21, 2023",
+        "version": "3.5",
+        "talents": {
+            "normal": "Spear of Favonius - Arrow's Passage",
+            "skill": "Starfrost Swirl",
+            "burst": "Skyfeather Song"
+        },
+        "image": "Mika_Icon.png"
+    },
+    {
+        "id": "65",
+        "name": "Baizhu",
+        "quality": "5",
+        "element": "Dendro",
+        "weaponType": "Catalyst",
+        "region": "Liyue",
+        "releaseDate": "May 02, 2023",
+        "version": "3.6",
+        "talents": {
+            "normal": "The Classics of Acupuncture",
+            "skill": "Universal Diagnosis",
+            "burst": "Holistic Revivification"
+        },
+        "image": "Baizhu_Icon.png"
+    },
+    {
+        "id": "66",
+        "name": "Kaveh",
+        "quality": "4",
+        "element": "Dendro",
+        "weaponType": "Claymore",
+        "region": "Sumeru",
+        "releaseDate": "May 02, 2023",
+        "version": "3.6",
+        "talents": {
+            "normal": "Schematic Setup",
+            "skill": "Artistic Ingenuity",
+            "burst": "Painted Dome"
+        },
+        "image": "Kaveh_Icon.png"
+    },
+    {
+        "id": "67",
+        "name": "Kirara",
+        "quality": "4",
+        "element": "Dendro",
+        "weaponType": "Sword",
+        "region": "Inazuma",
+        "releaseDate": "May 24, 2023",
+        "version": "3.7",
+        "talents": {
+            "normal": "Boxcutter",
+            "skill": "Meow-teor Kick",
+            "burst": "Secret Art: Surprise Dispatch"
+        },
+        "image": "Kirara_Icon.png"
+    },
+    {
+        "id": "68",
+        "name": "Freminet",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Claymore",
+        "region": "Fontaine",
+        "releaseDate": "September 05, 2023",
+        "version": "4.0",
+        "talents": {
+            "normal": "Flowing Eddies",
+            "skill": "Pressurized Floe",
+            "burst": "Shadowhunter's Ambush"
+        },
+        "image": "Freminet_Icon.png"
+    },
+    {
+        "id": "69",
+        "name": "Lynette",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Sword",
+        "region": "Fontaine",
+        "releaseDate": "August 16, 2023",
+        "version": "4.0",
+        "talents": {
+            "normal": "Rapid Ritesword",
+            "skill": "Enigmatic Feint",
+            "burst": "Magic Trick: Astonishing Shift"
+        },
+        "image": "Lynette_Icon.png"
+    },
+    {
+        "id": "70",
+        "name": "Lyney",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Bow",
+        "region": "Fontaine",
+        "releaseDate": "August 16, 2023",
+        "version": "4.0",
+        "talents": {
+            "normal": "Card Force Translocation",
+            "skill": "Bewildering Lights",
+            "burst": "Wondrous Trick: Miracle Parade"
+        },
+        "image": "Lyney_Icon.png"
+    },
+    {
+        "id": "71",
+        "name": "Neuvillette",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Catalyst",
+        "region": "Fontaine",
+        "releaseDate": "September 27, 2023",
+        "version": "4.1",
+        "talents": {
+            "normal": "As Water Seeks Equilibrium",
+            "skill": "O Tears, I Shall Repay",
+            "burst": "O Tides, I Have Returned"
+        },
+        "image": "Neuvillette_Icon.png"
+    },
+    {
+        "id": "72",
+        "name": "Wriothesley",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Catalyst",
+        "region": "Fontaine",
+        "releaseDate": "October 17, 2023",
+        "version": "4.1",
+        "talents": {
+            "normal": "Forceful Fists of Frost",
+            "skill": "Icefang Rush",
+            "burst": "Darkgold Wolfbite"
+        },
+        "image": "Wriothesley_Icon.png"
+    },
+    {
+        "id": "73",
+        "name": "Charlotte",
+        "quality": "4",
+        "element": "Cryo",
+        "weaponType": "Catalyst",
+        "region": "Fontaine",
+        "releaseDate": "November 08, 2023",
+        "version": "4.2",
+        "talents": {
+            "normal": "Cool-Color Capture",
+            "skill": "Framing: Freezing Point Composition",
+            "burst": "Still Photo: Comprehensive Confirmation"
+        },
+        "image": "Charlotte_Icon.png"
+    },
+    {
+        "id": "74",
+        "name": "Furina",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Sword",
+        "region": "Fontaine",
+        "releaseDate": "November 08, 2023",
+        "version": "4.2",
+        "talents": {
+            "normal": "Soloist's Solicitation",
+            "skill": "Salon Solitaire",
+            "burst": "Let the People Rejoice"
+        },
+        "image": "Furina_Icon.png"
+    },
+    {
+        "id": "75",
+        "name": "Chevreuse",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Polearm",
+        "region": "Fontaine",
+        "releaseDate": "January 09, 2024",
+        "version": "4.3",
+        "talents": {
+            "normal": "Line Bayonet Thrust EX",
+            "skill": "Short-Range Rapid Interdiction Fire",
+            "burst": "Ring of Bursting Grenades"
+        },
+        "image": "Chevreuse_Icon.png"
+    },
+    {
+        "id": "76",
+        "name": "Navia",
+        "quality": "5",
+        "element": "Geo",
+        "weaponType": "Claymore",
+        "region": "Fontaine",
+        "releaseDate": "December 20, 2023",
+        "version": "4.3",
+        "talents": {
+            "normal": "Blunt Refusal",
+            "skill": "Ceremonial Crystalshot",
+            "burst": "As the Sunlit Sky's Singing Salute"
+        },
+        "image": "Navia_Icon.png"
+    },
+    {
+        "id": "77",
+        "name": "Gaming",
+        "quality": "4",
+        "element": "Pyro",
+        "weaponType": "Claymore",
+        "region": "Liyue",
+        "releaseDate": "January 31, 2024",
+        "version": "4.4",
+        "talents": {
+            "normal": "Stellar Rend",
+            "skill": "Bestial Ascent",
+            "burst": "Suanni's Gilded Dance"
+        },
+        "image": "Gaming_Icon.png"
+    },
+    {
+        "id": "78",
+        "name": "Xianyun",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Catalyst",
+        "region": "Liyue",
+        "releaseDate": "January 31, 2024",
+        "version": "4.4",
+        "talents": {
+            "normal": "Word of Wind and Flower",
+            "skill": "White Clouds at Dawn",
+            "burst": "Stars Gather at Dusk"
+        },
+        "image": "Xianyun_Icon.png"
+    },
+    {
+        "id": "79",
+        "name": "Chiori",
+        "quality": "5",
+        "element": "Geo",
+        "weaponType": "Sword",
+        "region": "Inazuma",
+        "releaseDate": "March 13, 2024",
+        "version": "4.5",
+        "talents": {
+            "normal": "Weaving Blade",
+            "skill": "Fluttering Hasode",
+            "burst": "Hiyoku: Twin Blades"
+        },
+        "image": "Chiori_Icon.png"
+    },
+    {
+        "id": "80",
+        "name": "Arlecchino",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Polearm",
+        "region": "Snezhnaya",
+        "releaseDate": "April 24, 2024",
+        "version": "4.6",
+        "talents": {
+            "normal": "Invitation to a Beheading",
+            "skill": "All Is Ash",
+            "burst": "Balemoon Rising"
+        },
+        "image": "Arlecchino_Icon.png"
+    },
+    {
+        "id": "81",
+        "name": "Clorinde",
+        "quality": "5",
+        "element": "Electro",
+        "weaponType": "Sword",
+        "region": "Fontaine",
+        "releaseDate": "June 05, 2024",
+        "version": "4.7",
+        "talents": {
+            "normal": "Oath of Hunting Shadows",
+            "skill": "Hunter's Vigil",
+            "burst": "Last Lightfall"
+        },
+        "image": "Clorinde_Icon.png"
+    },
+    {
+        "id": "82",
+        "name": "Sethos",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Bow",
+        "region": "Sumeru",
+        "releaseDate": "June 05, 2024",
+        "version": "4.7",
+        "talents": {
+            "normal": "Royal Reed Archery",
+            "skill": "Ancient Rite: The Thundering Sands",
+            "burst": "Secret Rite: Twilight Shadowpiercer"
+        },
+        "image": "Sethos_Icon.png"
+    },
+    {
+        "id": "83",
+        "name": "Sigewinne",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Bow",
+        "region": "Fontaine",
+        "releaseDate": "June 25, 2024",
+        "version": "4.7",
+        "talents": {
+            "normal": "Targeted Treatment",
+            "skill": "Rebound Hydrotherapy",
+            "burst": "Super Saturated Syringing"
+        },
+        "image": "Sigewinne_Icon.png"
+    },
+    {
+        "id": "84",
+        "name": "Emilie",
+        "quality": "5",
+        "element": "Dendro",
+        "weaponType": "Polearm",
+        "region": "Fontaine",
+        "releaseDate": "August 06, 2024",
+        "version": "4.8",
+        "talents": {
+            "normal": "Shadow-Hunting Spear (Custom)",
+            "skill": "Fragrance Extraction",
+            "burst": "Aromatic Explication"
+        },
+        "image": "Emilie_Icon.png"
+    },
+    {
+        "id": "85",
+        "name": "Kachina",
+        "quality": "4",
+        "element": "Geo",
+        "weaponType": "Polearm",
+        "region": "Natlan",
+        "releaseDate": "August 28, 2024",
+        "version": "5.0",
+        "talents": {
+            "normal": "Cragbiter",
+            "skill": "Go, Go Turbo Twirly!",
+            "burst": "Time to Get Serious!"
+        },
+        "image": "Kachina_Icon.png"
+    },
+    {
+        "id": "86",
+        "name": "Kinich",
+        "quality": "5",
+        "element": "Dendro",
+        "weaponType": "Claymore",
+        "region": "Natlan",
+        "releaseDate": "September 17, 2024",
+        "version": "5.0",
+        "talents": {
+            "normal": "Nightsun Style",
+            "skill": "Canopy Hunter: Riding High",
+            "burst": "Hail to the Almighty Dragonlord"
+        },
+        "image": "Kinich_Icon.png"
+    },
+    {
+        "id": "87",
+        "name": "Mualani",
+        "quality": "5",
+        "element": "Hydro",
+        "weaponType": "Catalyst",
+        "region": "Natlan",
+        "releaseDate": "August 28, 2024",
+        "version": "5.0",
+        "talents": {
+            "normal": "Cooling Treatment",
+            "skill": "Surfshark Wavebreaker",
+            "burst": "Boomsharka-laka"
+        },
+        "image": "Mualani_Icon.png"
+    },
+    {
+        "id": "88",
+        "name": "Xilonen",
+        "quality": "5",
+        "element": "Geo",
+        "weaponType": "Sword",
+        "region": "Natlan",
+        "releaseDate": "October 09, 2024",
+        "version": "5.1",
+        "talents": {
+            "normal": "Ehecatl's Roar",
+            "skill": "Yohual's Scratch",
+            "burst": "Ocelotlicue Point!"
+        },
+        "image": "Xilonen_Icon.png"
+    },
+    {
+        "id": "89",
+        "name": "Chasca",
+        "quality": "5",
+        "element": "Anemo",
+        "weaponType": "Bow",
+        "region": "Natlan",
+        "releaseDate": "November 20, 2024",
+        "version": "5.2",
+        "talents": {
+            "normal": "Phantom Feather Flurry",
+            "skill": "Spirit Reins, Shadow Hunt",
+            "burst": "Soul Reaper's Fatal Round"
+        },
+        "image": "Chasca_Icon.png"
+    },
+    {
+        "id": "90",
+        "name": "Ororon",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Bow",
+        "region": "Natlan",
+        "releaseDate": "November 20, 2024",
+        "version": "5.2",
+        "talents": {
+            "normal": "Spiritvessel Snapshot",
+            "skill": "Night's Sling",
+            "burst": "Dark Voices Echo"
+        },
+        "image": "Ororon_Icon.png"
+    },
+    {
+        "id": "91",
+        "name": "Citlali",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Catalyst",
+        "region": "Natlan",
+        "releaseDate": "January 01, 2025",
+        "version": "5.3",
+        "talents": {
+            "normal": "Shadow-Stealing Spirit Vessel",
+            "skill": "Dawnfrost Darkstar",
+            "burst": "Edict of Entwined Splendor"
+        },
+        "image": "Citlali_Icon.png"
+    },
+    {
+        "id": "92",
+        "name": "Lan Yan",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Catalyst",
+        "region": "Liyue",
+        "releaseDate": "January 21, 2025",
+        "version": "5.3",
+        "talents": {
+            "normal": "Black Pheasant Strides on Water",
+            "skill": "Swallow-Wisp Pinion Dance",
+            "burst": "Lustrous Moonrise"
+        },
+        "image": "Lan_Yan_Icon.png"
+    },
+    {
+        "id": "93",
+        "name": "Mavuika",
+        "quality": "5",
+        "element": "Pyro",
+        "weaponType": "Claymore",
+        "region": "Natlan",
+        "releaseDate": "January 01, 2025",
+        "version": "5.3",
+        "talents": {
+            "normal": "Flames Weave Life",
+            "skill": "The Named Moment",
+            "burst": "Hour of Burning Skies"
+        },
+        "image": "Mavuika_Icon.png"
+    },
+    {
+        "id": "94",
+        "name": "Yumemizuki Mizuki",
+        "quality": "5",
+        "element": "Anemo",
+        "weaponType": "Catalyst",
+        "region": "Inazuma",
+        "releaseDate": "February 12, 2025",
+        "version": "5.4",
+        "talents": {
+            "normal": "Pure Heart, Pure Dreams",
+            "skill": "Aisa Utamakura Pilgrimage",
+            "burst": "Anraku Secret Spring Therapy"
+        },
+        "image": "Yumemizuki_Mizuki_Icon.png"
+    },
+    {
+        "id": "95",
+        "name": "Iansan",
+        "quality": "4",
+        "element": "Electro",
+        "weaponType": "Polearm",
+        "region": "Natlan",
+        "releaseDate": "March 26, 2025",
+        "version": "5.5",
+        "talents": {
+            "normal": "Weighted Spike",
+            "skill": "Thunderbolt Rush",
+            "burst": "The Three Principles of Power"
+        },
+        "image": "Iansan_Icon.png"
+    },
+    {
+        "id": "96",
+        "name": "Varesa",
+        "quality": "5",
+        "element": "Electro",
+        "weaponType": "Catalyst",
+        "region": "Natlan",
+        "releaseDate": "March 26, 2025",
+        "version": "5.5",
+        "talents": {
+            "normal": "By the Horns",
+            "skill": "Riding the Night-Rainbow",
+            "burst": "Guardian Vent!"
+        },
+        "image": "Varesa_Icon.png"
+    },
+    {
+        "id": "97",
+        "name": "Escoffier",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Polearm",
+        "region": "Fontaine",
+        "releaseDate": "May 07, 2025",
+        "version": "5.6",
+        "talents": {
+            "normal": "Kitchen Skills",
+            "skill": "Low-Temperature Cooking",
+            "burst": "Scoring Cuts"
+        },
+        "image": "Escoffier_Icon.png"
+    },
+    {
+        "id": "98",
+        "name": "Ifa",
+        "quality": "4",
+        "element": "Anemo",
+        "weaponType": "Catalyst",
+        "region": "Natlan",
+        "releaseDate": "May 07, 2025",
+        "version": "5.6",
+        "talents": {
+            "normal": "Rite of Dispelling Winds",
+            "skill": "Airborne Disease Prevention",
+            "burst": "Compound Sedation Field"
+        },
+        "image": "Ifa_Icon.png"
+    },
+    {
+        "id": "99",
+        "name": "Dahlia",
+        "quality": "4",
+        "element": "Hydro",
+        "weaponType": "Sword",
+        "region": "Mondstadt",
+        "releaseDate": "June 18, 2025",
+        "version": "5.7",
+        "talents": {
+            "normal": "Favonius Bladework - Ritual",
+            "skill": "Immersive Ordinance",
+            "burst": "Radiant Psalter"
+        },
+        "image": "Dahlia_Icon.png"
+    },
+    {
+        "id": "100",
+        "name": "Skirk",
+        "quality": "5",
+        "element": "Cryo",
+        "weaponType": "Sword",
+        "region": "None",
+        "releaseDate": "June 18, 2025",
+        "version": "5.7",
+        "talents": {
+            "normal": "Havoc: Sunder",
+            "skill": "Havoc: Warp",
+            "burst": "Havoc: Ruin"
+        },
+        "image": "Skirk_Icon.png"
+    },
+    {
+        "id": "101",
+        "name": "Ineffa",
+        "quality": "5",
+        "element": "Electro",
+        "weaponType": "Polearm",
+        "region": "Nod-Krai",
+        "releaseDate": "July 30, 2025",
+        "version": "5.8",
+        "talents": {
+            "normal": "Cyclonic Duster",
+            "skill": "Cleaning Mode: Carrier Frequency",
+            "burst": "Supreme Instruction: Cyclonic Exterminator"
+        },
+        "image": "Ineffa_Icon.png"
+    }
+]
