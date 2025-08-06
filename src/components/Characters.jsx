@@ -1,7 +1,42 @@
 import React from 'react';
+import characterData from '../data/characters.json';
 
 const Characters = () => {
-  return <h1>Characters</h1>;
+  return (
+    <div>
+      <h1>Characters</h1>
+
+      <div className="character-grid">
+
+        {characterData.map((character) => {
+
+          const imageUrl = require(`../assets/char-icons/${character.image}`);
+          let backgroundStyle = {};
+          
+          // dynamicaly change character background based on quality
+          if (character.quality === '5') {
+            backgroundStyle.backgroundImage = `url(${require('../assets/backgrounds/5star-gold.png')})`;
+          } else if (character.quality === '4') {
+            backgroundStyle.backgroundImage = `url(${require('../assets/backgrounds/4star-purple.png')})`;
+          }
+
+
+          return (
+            <div 
+              key={character.id} className="character-card">
+
+              <div className="image-background-container" style={backgroundStyle}>
+                <img src={imageUrl} alt={character.name} className="character-image" />
+              </div>
+
+              <h3>{character.name}</h3>
+              
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
 };
 
 export default Characters;

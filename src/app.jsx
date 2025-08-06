@@ -28,6 +28,7 @@ const App = () => {
       <div className="content-area">
         {renderPage()}
       </div>
+      <div className="right-panel" />
     </div>
   );
 
