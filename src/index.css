@@ -15,6 +15,11 @@ body {
     Arial, sans-serif;
   background-color: var(--primary-bg);
   color: var(--primary-text);
+  /* Disable text selection for a more native app feel */
+  user-select: none;
+  -webkit-user-select: none; /* For Safari */
+  -moz-user-select: none; /* For Firefox */
+  -ms-user-select: none; /* For Internet Explorer/Edge */
 }
 
 h1, h2, h3 {
@@ -86,7 +91,7 @@ h1, h2, h3 {
 .character-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 20px;
+  gap: 45px;
   margin-top: 20px;
 }
 
@@ -100,10 +105,35 @@ h1, h2, h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
 }
 
 .character-card:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.weapon-type-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  padding: 4px;
+  box-sizing: border-box;
+  z-index: 1;
+  transform: translate(-50%, -50%);
+}
+
+.element-type-icon {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 32px;
+  height: 32px;
+  z-index: 1;
+  transform: translate(50%, -50%);
 }
 
 .image-background-container {

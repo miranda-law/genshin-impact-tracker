@@ -11,6 +11,9 @@ const Characters = () => {
         {characterData.map((character) => {
 
           const imageUrl = require(`../assets/char-icons/${character.image}`);
+          const weaponIconUrl = require(`../assets/weapon-type-icons/${character.weaponType}.png`);
+          const elementIconUrl = require(`../assets/element-icons/${character.element}.png`);
+
           let backgroundStyle = {};
           
           // dynamicaly change character background based on quality
@@ -24,6 +27,9 @@ const Characters = () => {
           return (
             <div 
               key={character.id} className="character-card">
+
+              <img src={weaponIconUrl} alt={character.weaponType} className="weapon-type-icon" />
+              <img src={elementIconUrl} alt={character.element} className="element-type-icon" />
 
               <div className="image-background-container" style={backgroundStyle}>
                 <img src={imageUrl} alt={character.name} className="character-image" />
