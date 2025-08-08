@@ -111,6 +111,10 @@ h1, h2, h3 {
   overflow: hidden;
 }
 
+.weapon-filter-menu .filter-icon {
+  filter: grayscale(1) invert(1) brightness(1.5);
+}
+
 .filter-option {
   flex-grow: 1;
   padding: 8px;
@@ -224,6 +228,12 @@ h1, h2, h3 {
   transform: translate(-50%, -50%);
 }
 
+.weapon-type-icon img {
+  width: 100%;
+  height: 100%;
+  filter: grayscale(1) invert(1) brightness(1.5);
+}
+
 .element-type-icon {
   position: absolute;
   top: 0px;
@@ -232,6 +242,11 @@ h1, h2, h3 {
   height: 32px;
   z-index: 1;
   transform: translate(50%, -50%);
+}
+
+.element-type-icon img {
+  width: 100%;
+  height: 100%;
 }
 
 .image-background-container {

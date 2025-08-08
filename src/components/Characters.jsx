@@ -118,8 +118,12 @@ const Characters = () => {
             <div 
               key={character.id} className="character-card">
 
-              <img src={weaponIconUrl} alt={character.weaponType} className="weapon-type-icon" />
-              <img src={elementIconUrl} alt={character.element} className="element-type-icon" />
+              <div className="weapon-type-icon">
+                <img src={weaponIconUrl} alt={character.weaponType} />
+              </div>
+              <div className="element-type-icon">
+                <img src={elementIconUrl} alt={character.element} />
+              </div>
 
               <div className="image-background-container" style={backgroundStyle}>
                 <img src={imageUrl} alt={character.name} className="character-image" />
