@@ -284,3 +284,85 @@ h1, h2, h3 {
   color: var(--primary-text);
   font-size: 0.9em;
 }
+
+/* Styles for Character Details Page */
+.character-details-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.back-button {
+  background: var(--secondary-bg);
+  border: 1px solid var(--primary-text);
+  color: var(--primary-text);
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9em;
+  margin-bottom: 20px;
+  align-self: flex-start;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.back-button:hover {
+  background-color: var(--accent-color);
+  color: var(--title-text);
+}
+
+.character-details-title {
+  text-align: left;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--hover-bg);
+}
+
+.details-layout {
+  display: flex;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.details-left {
+  flex-shrink: 0;
+}
+
+.details-character-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 12px;
+  object-fit: cover;
+  background-color: var(--secondary-bg);
+}
+
+.details-right {
+  flex-grow: 1;
+}
+
+.details-tabs {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  border-bottom: 1px solid var(--hover-bg);
+}
+
+.details-tab {
+  padding: 10px 20px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  /* --- COMMENT: Added styles for inactive tabs --- */
+  color: var(--accent-color);
+  transition: color 0.2s, border-bottom-color 0.2s;
+}
+
+.details-tab:hover {
+  color: var(--primary-text);
+}
+
+.details-tab.active {
+  color: var(--title-text);
+  border-bottom-color: var(--accent-color);
+}
+
+.details-tab-content {
+  padding-top: 20px;
+}

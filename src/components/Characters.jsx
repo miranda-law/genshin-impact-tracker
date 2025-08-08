@@ -4,7 +4,7 @@ import characterData from '../data/characters.json';
 const WEAPON_TYPES = ['bow', 'catalyst', 'claymore', 'polearm', 'sword'];
 const ELEMENT_TYPES = ['anemo', 'cryo', 'electro', 'geo', 'hydro', 'pyro'];
 
-const Characters = () => {
+const Characters = ({ onSelectCharacter }) => {
   // create filters
   const [selectedWeapon, setSelectedWeapon] = useState(null);
   const [selectedElement, setSelectedElement] = useState(null);
@@ -116,7 +116,9 @@ const Characters = () => {
           // character square
           return (
             <div 
-              key={character.id} className="character-card">
+              key={character.id} 
+              className="character-card" 
+              onClick={() => onSelectCharacter(character)}>
 
               <div className="weapon-type-icon">
                 <img src={weaponIconUrl} alt={character.weaponType} />
