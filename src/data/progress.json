@@ -1,0 +1,2931 @@
+[
+    {
+        "id": "1",
+        "name": "Amber",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "2",
+        "name": "Barbara",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "3",
+        "name": "Beidou",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "4",
+        "name": "Bennett",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "5",
+        "name": "Chongyun",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "6",
+        "name": "Diluc",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "7",
+        "name": "Fischl",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "8",
+        "name": "Jean",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "9",
+        "name": "Kaeya",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "10",
+        "name": "Keqing",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "11",
+        "name": "Klee",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "12",
+        "name": "Lisa",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "13",
+        "name": "Mona",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "14",
+        "name": "Ningguang",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "15",
+        "name": "Noelle",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "16",
+        "name": "Qiqi",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "17",
+        "name": "Razor",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "18",
+        "name": "Sucrose",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "19",
+        "name": "Venti",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "20",
+        "name": "Xiangling",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "21",
+        "name": "Xingqiu",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "22",
+        "name": "Diona",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "23",
+        "name": "Tartaglia",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "24",
+        "name": "Xinyan",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "25",
+        "name": "Zhongli",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "26",
+        "name": "Albedo",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "27",
+        "name": "Ganyu",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "28",
+        "name": "Hu Tao",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "29",
+        "name": "Xiao",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "30",
+        "name": "Rosaria",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "31",
+        "name": "Eula",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "32",
+        "name": "Yanfei",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "33",
+        "name": "Kaedehara Kazuha",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "34",
+        "name": "Kamisato Ayaka",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "35",
+        "name": "Sayu",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "36",
+        "name": "Yoimiya",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "37",
+        "name": "Aloy",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "38",
+        "name": "Kujou Sara",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "39",
+        "name": "Raiden Shogun",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "40",
+        "name": "Sangonomiya Kokomi",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "41",
+        "name": "Thoma",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "42",
+        "name": "Arataki Itto",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "43",
+        "name": "Gorou",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "44",
+        "name": "Shenhe",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "45",
+        "name": "Yun Jin",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "46",
+        "name": "Yae Miko",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "47",
+        "name": "Kamisato Ayato",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "48",
+        "name": "Kuki Shinobu",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "49",
+        "name": "Yelan",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "50",
+        "name": "Shikanoin Heizou",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "51",
+        "name": "Collei",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "52",
+        "name": "Dori",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "53",
+        "name": "Tighnari",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "54",
+        "name": "Candace",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "55",
+        "name": "Cyno",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "56",
+        "name": "Nilou",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "57",
+        "name": "Layla",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "58",
+        "name": "Nahida",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "59",
+        "name": "Faruzan",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "60",
+        "name": "Wanderer",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "61",
+        "name": "Alhaitham",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "62",
+        "name": "Yaoyao",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "63",
+        "name": "Dehya",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "64",
+        "name": "Mika",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "65",
+        "name": "Baizhu",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "66",
+        "name": "Kaveh",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "67",
+        "name": "Kirara",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "68",
+        "name": "Freminet",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "69",
+        "name": "Lynette",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "70",
+        "name": "Lyney",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "71",
+        "name": "Neuvillette",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "72",
+        "name": "Wriothesley",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "73",
+        "name": "Charlotte",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "74",
+        "name": "Furina",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "75",
+        "name": "Chevreuse",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "76",
+        "name": "Navia",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "77",
+        "name": "Gaming",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "78",
+        "name": "Xianyun",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "79",
+        "name": "Chiori",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "80",
+        "name": "Arlecchino",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "81",
+        "name": "Clorinde",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "82",
+        "name": "Sethos",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "83",
+        "name": "Sigewinne",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "84",
+        "name": "Emilie",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "85",
+        "name": "Kachina",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "86",
+        "name": "Kinich",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "87",
+        "name": "Mualani",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "88",
+        "name": "Xilonen",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "89",
+        "name": "Chasca",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "90",
+        "name": "Ororon",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "91",
+        "name": "Citlali",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "92",
+        "name": "Lan Yan",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "93",
+        "name": "Mavuika",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "94",
+        "name": "Yumemizuki Mizuki",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "95",
+        "name": "Iansan",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "96",
+        "name": "Varesa",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "97",
+        "name": "Escoffier",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "98",
+        "name": "Ifa",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "99",
+        "name": "Dahlia",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "100",
+        "name": "Skirk",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    },
+    {
+        "id": "101",
+        "name": "Ineffa",
+        "constellation": "0",
+        "level": "1",
+        "ascension": "0",
+        "talents": {
+            "normal": "1",
+            "skill": "1",
+            "burst": "1"
+        },
+        "weapon": "",
+        "artifacts": {
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "status": {
+            "weapon": "",
+            "flower": "",
+            "plume": "",
+            "sands": "",
+            "goblet": "",
+            "circlet": ""
+        },
+        "notes": ""
+    }
+]
