@@ -24,19 +24,14 @@
                 {
                   "html": "./src/index.html",
                   "js": "./src/renderer.js",
-                  "name": "main_window"
-                }
-              ]
-            },
-            "preload": {
-              "config": "./webpack.preload.config.js",
-              "entryPoints": [
-                {
-                  "name": "main_window_preload",
-                  "js": "./src/preload.js"
+                  "name": "main_window",
+                  "preload": {
+                    "js": "./src/preload.js"
+                  }
                 }
               ]
             }
+            
           }
         }
       ]
