@@ -1,0 +1,118 @@
+/* Styles for Character Details Page */
+.character-details-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.character-details-title {
+  text-align: left;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--hover-bg);
+}
+
+.details-layout {
+  display: flex;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.details-left {
+  flex-shrink: 0;
+}
+
+.details-character-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 12px;
+  object-fit: cover;
+  background-color: var(--secondary-bg);
+}
+
+.details-right {
+  flex-grow: 1;
+}
+
+.details-tabs {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  border-bottom: 1px solid var(--hover-bg);
+}
+
+.details-tab {
+  padding: 12px 24px;
+  font-size: 1.1em;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  color: var(--accent-color);
+  transition: color 0.2s, border-bottom-color 0.2s;
+}
+
+.details-tab:hover {
+  color: var(--primary-text);
+}
+
+.details-tab.active {
+  color: var(--title-text);
+  border-bottom-color: var(--accent-color);
+}
+
+.details-tab-content {
+  padding-top: 30px;
+}
+
+.details-content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.detail-item {
+  display: flex;
+  align-items: center;
+  font-size: 1.1em;
+  gap: 20px;
+}
+
+.detail-label {
+  font-weight: bold;
+  color: var(--title-text);
+  width: 120px;
+}
+
+.detail-value {
+  color: var(--primary-text);
+}
+
+.detail-value-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.detail-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.editable {
+  cursor: pointer;
+  border-bottom: 1px dashed var(--accent-color);
+  transition: color 0.2s, border-bottom-color 0.2s;
+}
+
+.editable:hover {
+  color: var(--title-text);
+  border-bottom-color: var(--title-text);
+}
+
+.detail-value-input {
+  background-color: var(--hover-bg);
+  border: 1px solid var(--accent-color);
+  border-radius: 4px;
+  color: var(--primary-text);
+  padding: 4px 8px;
+  font-size: 1em;
+  width: 60px;
+}

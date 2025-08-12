@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import characterData from '../data/characters.json';
+import './Characters.css';
 
 const WEAPON_TYPES = ['bow', 'catalyst', 'claymore', 'polearm', 'sword'];
 const ELEMENT_TYPES = ['anemo', 'cryo', 'electro', 'geo', 'hydro', 'pyro'];
