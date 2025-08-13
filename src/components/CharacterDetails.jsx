@@ -20,6 +20,10 @@ const CharacterDetails = ({ character, progressData, onUpdateProgress }) => {
   const [isEditingLevel, setIsEditingLevel] = useState(false);
   const [editableLevel, setEditableLevel] = useState('');
 
+  // state for managing editable constellation field
+  const [isEditingConstellation, setIsEditingConstellation] = useState(false);
+  const [editableConstellation, setEditableConstellation] = useState('');
+
   // find progess data for selected character
   const characterProgress = progressData.find(p => p.id === String(character.id));
 
@@ -33,6 +37,18 @@ const CharacterDetails = ({ character, progressData, onUpdateProgress }) => {
       onUpdateProgress(newProgressData);
     }
     setIsEditingLevel(false);
+  };
+
+  // Handle saving the new constellation -- only 0 to 6
+  const handleSaveConstellation = () => {
+    const newConstellation = parseInt(editableConstellation, 10);
+    if (newConstellation >= 0 && newConstellation <= 6) {
+      const newProgressData = progressData.map(p => 
+        p.id === String(character.id) ? { ...p, constellation: String(newConstellation) } : p
+      );
+      onUpdateProgress(newProgressData);
+    }
+    setIsEditingConstellation(false);
   };
 
   const renderTabContent = () => {
@@ -106,7 +122,29 @@ const CharacterDetails = ({ character, progressData, onUpdateProgress }) => {
 
             <div className="detail-item">
               <span className="detail-label">Constellation:</span>
-              <span className="detail-value">{characterProgress ? characterProgress.constellation : '0'}</span>
+              {isEditingConstellation ? (
+                <input
+                  type="number"
+                  min="0"
+                  max="6"
+                  value={editableConstellation}
+                  onChange={(e) => setEditableConstellation(e.target.value)}
+                  onBlur={handleSaveConstellation}
+                  onKeyDown={(e) => e.key === 'Enter' && handleSaveConstellation()}
+                  className="detail-value-input"
+                  autoFocus
+                />
+              ) : (
+                <span 
+                  className="detail-value editable" 
+                  onClick={() => {
+                    setEditableConstellation(characterProgress ? characterProgress.constellation : '1');
+                    setIsEditingConstellation(true);
+                  }}
+                >
+                  {characterProgress ? characterProgress.constellation : '1'}
+                </span>
+              )}
             </div>
 
           </div>
@@ -114,6 +152,12 @@ const CharacterDetails = ({ character, progressData, onUpdateProgress }) => {
     }
   };
 
+  let backgroundStyle = {};
+  if (character.quality === '5') {
+    backgroundStyle.backgroundImage = `url(${require('../assets/backgrounds/5star-gold.png')})`;
+  } else if (character.quality === '4') {
+    backgroundStyle.backgroundImage = `url(${require('../assets/backgrounds/4star-purple.png')})`;
+  }
 
   return (
     <div className="character-details-container">
@@ -123,7 +167,9 @@ const CharacterDetails = ({ character, progressData, onUpdateProgress }) => {
       <div className="details-layout">
 
         <div className="details-left">
-          <img src={imageUrl} alt={character.name} className="details-character-image" />
+          <div className="details-image-background-container" style={backgroundStyle}>
+            <img src={imageUrl} alt={character.name} className="details-character-image" />
+          </div>
         </div>
 
         <div className="details-right">

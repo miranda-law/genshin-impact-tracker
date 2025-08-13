@@ -20,12 +20,22 @@
   flex-shrink: 0;
 }
 
-.details-character-image {
+.details-image-background-container {
   width: 200px;
   height: 200px;
   border-radius: 12px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.details-character-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
   object-fit: cover;
-  background-color: var(--secondary-bg);
 }
 
 .details-right {
